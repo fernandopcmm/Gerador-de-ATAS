@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Atas com IA",
+  "description": "Transforme transcrições de reuniões em atas profissionais formatadas usando o Google Gemini.",
+  "requestFramePermissions": []
+}
